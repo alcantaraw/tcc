@@ -5,6 +5,7 @@ Repositório público contendo o Trabalho de Conclusão de Curso (TCC) apresenta
 * **Autor:** Wellington de Alcantara
 * **Perfil Profissional (LinkedIn):** [linkedin.com/in/alcantaraw](https://www.linkedin.com/in/alcantaraw/)
 * **Artigo Completo (PDF):** [TCC - Wellington Alcantara - 2016202296.pdf](./TCC%20-%20Wellington%20Alcantara%20-%202016202296.pdf)
+* * **E-mail:** [alcantaraw@gmail.com](mailto:alcantaraw@gmail.com)
 
 ---
 
@@ -43,11 +44,3 @@ Este trabalho analisa os vetores técnicos, operacionais e financeiros da migra�
 * **Cloud Architecture:** Nuvem Híbrida, Estratégias Multicloud, IaaS/PaaS, Kubernetes, Conectividade Dedicada.
 * **FinOps & Governança:** Redução de TCO, Modelagem OPEX, Rightsizing, Gestão de Egress, Estruturação de CCoE.
 * **Engenharia de Sistemas:** Integração de Aplicações Críticas, Modernização de Sistemas Legados, Continuidade Operacional.
-
----
-
-## 🔗 Conexões e Contato
-
-* **Repositório:** [github.com/alcantaraw/](https://github.com/alcantaraw/)
-* **LinkedIn:** [Wellington de Alcantara](https://www.linkedin.com/in/alcantaraw/)
-* **E-mail:** [alcantaraw@gmail.com](mailto:alcantaraw@gmail.com)
