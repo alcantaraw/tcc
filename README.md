@@ -48,6 +48,6 @@ Este trabalho analisa os vetores técnicos, operacionais e financeiros da migra�
 
 ## 🔗 Conexões e Contato
 
-* **Repositório:** [github.com/alcantaraw/tcc](https://github.com/alcantaraw/tcc)
+* **Repositório:** [github.com/alcantaraw/tcc](https://github.com/alcantaraw/)
 * **LinkedIn:** [Wellington de Alcantara](https://www.linkedin.com/in/alcantaraw/)
 * **E-mail:** [alcantaraw@gmail.com](mailto:alcantaraw@gmail.com)
