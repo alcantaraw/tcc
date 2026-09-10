@@ -4,7 +4,7 @@ Repositório público contendo o Trabalho de Conclusão de Curso (TCC) apresenta
 
 * **Autor:** Wellington de Alcantara
 * **Perfil Profissional (LinkedIn):** [linkedin.com/in/alcantaraw](https://www.linkedin.com/in/alcantaraw/)
-* **Artigo Completo (PDF):** [TCC - Wellington Alcantara - 2016202296.pdf](./TCC%20-%20Wellington%20Alcantara%20-%202016202296%20(1).pdf)
+* **Artigo Completo (PDF):** [TCC - Wellington Alcantara - 2016202296.pdf](./TCC%20-%20Wellington%20Alcantara%20-%202016202296.pdf)
 
 ---
 
